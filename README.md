@@ -59,4 +59,24 @@ Constantly learning and exploring new technologies to grow as a developer.
 
 ---
 
+## 📊 GitHub Stats & Streaks
+
+<table align="center" cellspacing="15" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aloknaik01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="380" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloknaik01&theme=dark&hide_border=false" width="380" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloknaik01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">Thanks for visiting my profile! Let's build something amazing together 🚀</p>
+
