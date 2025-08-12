@@ -77,7 +77,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing Code GIF" width="350" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTU3c24xa25vZzE2bDNwM3U2MnI3azNnaWdqZ3ZrbGx6NjJubDBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Code GIF" width="350" />
 </p>
 
 ---
