@@ -123,14 +123,6 @@
 Show Image
 </div>
 
-🔥 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aloknaik01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<footer>
-  <p>Thanks for visiting my profile! Let's build something amazing together 🚀</p>
-</footer>
 
 </div>
